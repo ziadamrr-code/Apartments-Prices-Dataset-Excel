@@ -67,5 +67,5 @@ Microsoft Excel: Power Query, PivotTables, formulas (MEDIAN, GETPIVOTDATA), char
 
 ## Author
 
-**Ziad Amr** - [LinkedIn] www.linkedin.com/in/ziadamrr
+**Ziad Amr** - www.linkedin.com/in/ziadamrr
 
